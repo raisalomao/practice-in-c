@@ -20,3 +20,5 @@ O desenvolvimento de sistemas em C continua sendo fundamental para a construçã
     - 3.1  Declaração de Vetores
     - 3.2  Uso de Vetores
     - 3.3  Ordenação de Vetores e suas Posições
+
+As pastas direcionam a conteúdos também disponíveis em PDF e exercícios de fixação. 
