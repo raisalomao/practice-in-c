@@ -2,7 +2,7 @@
 O desenvolvimento de sistemas em C continua sendo fundamental para a construção das estruturas de dados e sistemas que permeiam o mundo. Este repositório conduz de forma didática o fluxograma necessário para a compreensão e prática na Linguagem C. 
 
 # Índice
-1. Introdução à Linguagem C 
+1. Introdução à Linguagem C \n
    1.1  Apresentação de algoritmos
    1.2  Como se estrutura um programa
    1.3  Função principal e declaração de variáveis
