@@ -27,9 +27,9 @@ int main() {
 }
 
 // A sequencia de Recamán é uma sequência, onde seus os termos são dados pela seguinte relação:
-// A0 = 0; para n > 0, 
-// An = An-1 – n, se o termo for positivo e já não estiver na sequência, 
-// An = An-1 + n, caso contrário.
+// a0 = 0; para n > 0, 
+// an = an-1 – n, se o termo for positivo e já não estiver na sequência, 
+// an = an-1 + n, caso contrário.
 
 // Escreva um programa em C, que gere e armazene em um vetor de vinte posições, os 20 primeiros termos da série.
 // Exemplo da série de Recamán até o nono termo: 0, 1, 3, 6, 2, 7, 13, 20, 12, 21...
